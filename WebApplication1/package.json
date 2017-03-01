@@ -1,0 +1,22 @@
+{
+  "name": "WebApplication1",
+  "version": "0.0.0",
+  "description": "Test Project",
+  "main": "Index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rviant/Angular-VisualStudioWebApp"
+  },
+  "author": "Rodolfo Viant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rviant/Angular-VisualStudioWebApp/issues"
+  },
+  "homepage": "https://github.com/rviant/Angular-VisualStudioWebApp",
+  "dependencies": {
+    "angular": "^1.6.2"
+  }
+}
